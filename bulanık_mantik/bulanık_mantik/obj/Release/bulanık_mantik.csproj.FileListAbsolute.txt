@@ -1,0 +1,16 @@
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\bin\Release\bulanık_mantik.exe.config
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\bin\Release\bulanık_mantik.exe
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\bin\Release\bulanık_mantik.pdb
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\obj\Release\bulanık_mantik.csproj.AssemblyReference.cache
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\obj\Release\bulanık_mantik.csproj.SuggestedBindingRedirects.cache
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\obj\Release\bulanık_mantik.Form1.resources
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\obj\Release\bulanık_mantik.Form2.resources
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\obj\Release\bulanık_mantik.Properties.Resources.resources
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\obj\Release\bulanık_mantik.csproj.GenerateResource.cache
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\obj\Release\bulanık_mantik.csproj.CoreCompileInputs.cache
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\obj\Release\bulanık_mantik.exe
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\obj\Release\bulanık_mantik.pdb
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\bin\Release\bulanık_mantik.exe.manifest
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\bin\Release\bulanık_mantik.application
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\obj\Release\bulanık_mantik.exe.manifest
+D:\Users\asuso\source\repos\bulanık_mantik\bulanık_mantik\obj\Release\bulanık_mantik.application
